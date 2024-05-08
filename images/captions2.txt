@@ -1,0 +1,11 @@
+image,caption
+image1.jpg,"A dog shakes its head near the shore , a red ball next to it ."
+image2.jpg,A collage of one person climbing a cliff .
+image3.jpg,A black dog carries a green toy in his mouth as he walks through the grass .
+image4.jpg,a black and white dog jumping in the air to get a toy .
+image5.jpg,A climber wearing a blue helmet and headlamp is attached to a rope on the rock face .
+image6.jpg,A man climbing a rock wall
+image7.jpg,A guy stands by a window taking his overshirt off .
+image8.jpg,A mother and children is fishing on a boardwalk at night .
+image9.jpg,A baby is sitting on and playing with smooth rocks .
+image10.jpg,A person eats takeout while watching a small television .
